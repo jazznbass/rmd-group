@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Researchmethods and Diagnostics Group"
+title: "RMD - Group"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The **Researchmethods and Diagnostics Group** focusses and developing and integrating ideas and concepts of data science and open science to the field of special education research since 2014.
+The **Researchmethods and Diagnostics Group** focusses on developing and integrating ideas and concepts of data science and open science to the field of special education research since 2014.
