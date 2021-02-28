@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The **Researchmethods and Diagnostics Group** focusses on developing ideas and concepts of _data science_ and _open science_ and integrate these into the field of special education research. It is based at the University of Potsdam in Germany and active since 2014.
+The **Researchmethods and Diagnostics Group** focusses on developing ideas and concepts of _data science_ and _open science_ and integrating these into the field of special education research. It is based at the University of Potsdam in Germany and active since 2014.
