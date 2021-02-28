@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: R in soecial education
 
-event: Wowchemy Conference
+event: Workshop
 event_url: https://example.org
 
 location: Wowchemy HQ
